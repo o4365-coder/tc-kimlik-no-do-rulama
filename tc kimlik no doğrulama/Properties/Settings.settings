@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="tc_kimlik_no_doğrulama.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="tc_kimlik_no_doğrulama_tr_gov_nvi_tckimlik_KPSPublic" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://tckimlik.nvi.gov.tr/service/kpspublic.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
