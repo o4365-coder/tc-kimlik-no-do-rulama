@@ -1,1 +1,1 @@
-# tc kimlik no doğrulama
+#tckimliknodoğrulama
