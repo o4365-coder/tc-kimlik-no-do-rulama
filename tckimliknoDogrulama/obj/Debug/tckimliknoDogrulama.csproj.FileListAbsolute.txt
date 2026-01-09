@@ -1,0 +1,10 @@
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\bin\Debug\tckimliknoDogrulama.exe.config
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\bin\Debug\tckimliknoDogrulama.exe
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\bin\Debug\tckimliknoDogrulama.pdb
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\obj\Debug\tckimliknoDogrulama.csprojResolveAssemblyReference.cache
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\obj\Debug\tckimliknoDogrulama.Form1.resources
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\obj\Debug\tckimliknoDogrulama.Properties.Resources.resources
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\obj\Debug\tckimliknoDogrulama.csproj.GenerateResource.Cache
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\obj\Debug\tckimliknoDogrulama.csproj.CoreCompileInputs.cache
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\obj\Debug\tckimliknoDogrulama.exe
+c:\users\cengiz atilla\source\repos\tckimliknoDogrulama\tckimliknoDogrulama\obj\Debug\tckimliknoDogrulama.pdb
